@@ -4,7 +4,7 @@
 
 ## Description
 
-Pour Spinoza, l'individu existe avant la communauté, il est premier, ce sont les individus qui créent les communautés. Dans [[l'état de nature\|l'état de nature]], il n'y a que des individus et pas de nations.
+Pour Spinoza, l'individu existe avant la communauté, il est premier, ce sont les individus qui créent les communautés. Dans [[Concepts/L'état de nature\|L'état de nature]], il n'y a que des individus et pas de nations.
 
 
 ## Citations ##
