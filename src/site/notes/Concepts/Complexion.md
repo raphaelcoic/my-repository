@@ -3,3 +3,5 @@
 ---
 
 Caractère propre d'un individu, forme individuelle
+
+#Individu 
