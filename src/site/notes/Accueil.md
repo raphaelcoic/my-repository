@@ -18,4 +18,4 @@ Bonne contribution à tous, et bon courage pour cette belle aventure en PSI 1 ! 
 
 Comment procéder ? C'est très simple, ça nécessite à peine 1h par semaine, vous rédigez une note tirée du cours ou pas, que vous jugez utile et qui ne figure pas déjà sur le site, et vous me l'envoyez par mail pour que je l'ajoute sur le site. Pour me faciliter le travail de compilation, veuillez respecter une page précise accessible [ici](https://github.com/raphaelcoic/my-repository/blob/693d59d76d1728244707329a83769c75d64cc5b5/Fiche%20Type.docx) (vous pouvez cliquer sur les 3 points à gauche puis download ou directement Ctrl + Maj + s) : 
 
-**Mail : raphaelcoicwulfman@gmail.com **
+**Mail : raphaelcoicwulfman@gmail.com 
