@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/idees/l-individu-a-une-existence-plus-grande-que-la-communaute/","tags":["Individu","Spinoza"]}
+{"dg-publish":true,"permalink":"/idees/l-individu-a-une-existence-plus-grande-que-la-communaute/"}
 ---
 
 ## Description
